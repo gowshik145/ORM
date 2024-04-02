@@ -41,7 +41,9 @@ class employee(models.Model):
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-04-02 110309.png>)
+![Screenshot 2024-04-02 113822](https://github.com/gowshik145/ORM/assets/155086127/e751b287-db6e-47c3-9b1d-281e94b4b6a2)
+
+
 
 
 ## RESULT
